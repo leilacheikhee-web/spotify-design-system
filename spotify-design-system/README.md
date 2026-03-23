@@ -14,16 +14,16 @@ I built a complete Spotify design system with:
 - Artist dashboard with stats and top tracks
 - Search functionality for filtering songs
 
+## Live Demo
+- Home: https://spotify-design-system-dusky.vercel.app
+- Dashboard: https://spotify-design-system-dusky.vercel.app/dashboard
+
 ## Installation
 ```bash
 cd spotify-design-system
 npm install --legacy-peer-deps
 npm run dev
 ```
-
-## Usage
-- Home: http://localhost:3000
-- Dashboard: http://localhost:3000/dashboard
 
 ### The Core Team
 Leila Cheikhe
